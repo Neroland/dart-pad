@@ -34,3 +34,6 @@ bin/server
 
 # Any local environment variable configuration
 .env
+
+# FVM Version Cache
+.fvm/
